@@ -171,7 +171,7 @@ All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that
           epoch_losses.append(loss.item())
           if (epoch + 1) % 5 == 0:
               print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
-    ```
+     ```
 
 6. **Data Visualization**：
    - Prediction v.s. GT:
@@ -190,3 +190,9 @@ All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that
       plt.grid(True)
       plt.show()
      ```
+
+## Contribution
+- Mengyan Cao:
+- Hoiting Mok:
+- Jiaxuan Li:
+- Ruolong Mao:
