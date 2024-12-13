@@ -230,6 +230,11 @@ Below are the general steps to reproduce the results of a specific model:
    - Fine-Tuning-Logs/LSTM_Transfered_Learning_Encoder_Decoder_Close+Indicators.xlsx
 - Hoiting Mok:
 - Jiaxuan Li:
+   - technical_indicators.ipynb
+   - Tuner of Transformer_RMSE_Close_Price.ipynb
+   - spy_with_indicators.csv
+   - BTC-USD_stock_data_with_indicators.csv
+   - Fine-Tuning-Transformer-Close-Price.xlsx
 - Ruolong Mao:
    - LSTM_RMSE_Baseline.ipynb
    - LSTM_RMSE_Close_Price.ipynb
