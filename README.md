@@ -223,6 +223,11 @@ Below are the general steps to reproduce the results of a specific model:
    - data/BTC-USD_stock_data_with_indicators.csv
    - data/technical_indicators.ipynb
    - pretrained_model/decoder_model.pth
+   - Fine-Tuning-Logs/Fine-Tuning-Transformer-Five-Features.xlsx
+   - Fine-Tuning-Logs/Four Models Summary.xlsx
+   - Fine-Tuning-Logs/LSTM_Close+Indicators_.xlsx
+   - Fine-Tuning-Logs/LSTM_Encoder_Decoder_Close+Indicators_.xlsx
+   - Fine-Tuning-Logs/LSTM_Transfered_Learning_Encoder_Decoder_Close+Indicators.xlsx
 - Hoiting Mok:
 - Jiaxuan Li:
 - Ruolong Mao:
