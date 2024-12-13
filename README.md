@@ -2,8 +2,26 @@
 This repository contains the code，data, and documentation for our Bitcoin prediction models. The project explores different model architectures and features.
 
 ## Runnable Scripts/Commands
-All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that can be run directly on Google Colab. Below are the steps to reproduce the results:
+All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that can be run directly on Google Colab. Download this repository, renamed the main folder as 24fall_dlProject, and put it at MyDrive should make all scripts runnable. 
 
+The nine `.ipynb` files in the main folder correspond to the nine models discussed in the final report:
+- **1 Baseline Model**
+- **4 Initial Models**
+- **1 SPY-based Model**
+- **3 Technical Indicator-based Models**
+
+### Hyperparameter Tuning
+The folder `Tuners for Models/` contains the scripts for performing hyperparameter tuning via grid search for the four initial models.
+
+### Reproducing Results
+To reproduce the results for any model/script:
+1. Open the corresponding `.ipynb` file.
+2. Click **Run All** to execute the script.
+
+**Note:** The reproduced results may differ slightly from the reported outcomes due to runtime randomness.
+
+### Detailed Reproduction Steps
+Below are the general steps to reproduce the results of a specific model:
 1. **Open the .ipynb file in colab**:
    - Open your browser and go to [Google Colab](https://colab.research.google.com).
    - Upload the desired `.ipynb` file to Colab or use the GitHub import option in Colab to open the file directly from this repository.
