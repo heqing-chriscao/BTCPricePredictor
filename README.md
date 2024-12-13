@@ -1,5 +1,5 @@
 # LSTM-Based Stock Price Prediction
-This repository contains the code， data, and documentation for our Bitcoin prediction models. The project explores different model architectures and features.
+This repository contains the code，data, and documentation for our Bitcoin prediction models. The project explores different model architectures and features.
 
 ## Runnable Scripts/Commands
 All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that can be run directly on Google Colab. Below are the steps to reproduce the results:
@@ -193,6 +193,18 @@ All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that
 
 ## Contribution
 - Mengyan Cao:
+   - LSTM_RMSE_Close_Price.ipynb
+   - Transformer_RMSE_Five_Features.ipynb
+   - LSTM_RMSE_Close_Price+Indicators.ipynb
+   - LSTM_Encoder_Decoder_RMSE_Close_Price+Indicators.ipynb
+   - LSTM_Transfered_Learning_Encoder_Decoder_RMSE_Close_Price+Indicators.ipynb
+   - Tuners for Models/Tuner of Transformer_RMSE_Five_Features.ipynb
+   - data/spy.csv
+   - data/spy_with_indicators.csv
+   - data/BTC-USD_stock_data_spy.csv
+   - data/BTC-USD_stock_data_with_indicators.csv
+   - data/technical_indicators.ipynb
+   - pretrained_model/decoder_model.pth
 - Hoiting Mok:
 - Jiaxuan Li:
 - Ruolong Mao:
@@ -203,3 +215,4 @@ All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that
    - data/BTC-USD_stock_data.csv
    - data/BTC-USD_stock_data_spy.csv
    - Tuner For Model/Tuner of LSTM_RMSE_Close_Price.ipynb
+- Google Drive Link: https://drive.google.com/drive/folders/1dmeBePIq8FMcVfkVp-I0dGxSMH8BxAAt?usp=sharing
