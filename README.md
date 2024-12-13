@@ -238,4 +238,5 @@ Below are the general steps to reproduce the results of a specific model:
    - data/BTC-USD_stock_data.csv
    - data/BTC-USD_stock_data_spy.csv
    - Tuner For Model/Tuner of LSTM_RMSE_Close_Price.ipynb
+   - Fine-Tuning-Logs/Fine-Tuning_LSTM_Close_Price.xlsx
 - Google Drive Link: https://drive.google.com/drive/folders/1dmeBePIq8FMcVfkVp-I0dGxSMH8BxAAt?usp=sharing
