@@ -195,4 +195,11 @@ All the code in this repository is provided as Jupyter notebooks (`.ipynb`) that
 - Mengyan Cao:
 - Hoiting Mok:
 - Jiaxuan Li:
-- Ruolong Mao: LSTM_RMSE_Baseline.ipynb, LSTM_RMSE_Close_Price.ipynb, LSTM_RMSE_Five_Features.ipynb, LSTM_RMSE_Close_Price+spy.ipynb, data/BTC-USD_stock_data.csv, data/BTC-USD_stock_data_spy.csv, Tuner For Model/Tuner of LSTM_RMSE_Close_Price.ipynb
+- Ruolong Mao:
+   - LSTM_RMSE_Baseline.ipynb
+   - LSTM_RMSE_Close_Price.ipynb
+   - LSTM_RMSE_Five_Features.ipynb
+   - LSTM_RMSE_Close_Price+spy.ipynb
+   - data/BTC-USD_stock_data.csv
+   - data/BTC-USD_stock_data_spy.csv
+   - Tuner For Model/Tuner of LSTM_RMSE_Close_Price.ipynb
