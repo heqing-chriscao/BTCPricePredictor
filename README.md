@@ -229,6 +229,11 @@ Below are the general steps to reproduce the results of a specific model:
    - Fine-Tuning-Logs/LSTM_Encoder_Decoder_Close+Indicators_.xlsx
    - Fine-Tuning-Logs/LSTM_Transfered_Learning_Encoder_Decoder_Close+Indicators.xlsx
 - Hoiting Mok:
+  - LSTM_RMSE_Baseline.ipynb
+  - LSTM_RMSE_Five_Features.ipynb
+  - Tuners for Models/LSTM_RMSE_Five_Features.ipynb
+  - Fine-Tuning-Logs/LSTM_RMSE_Five_Features.ipynb
+  - Fine-Tuning-Logs/Fine-Tuning-Transformer-Five-Features.xlsx
 - Jiaxuan Li:
    - technical_indicators.ipynb
    - Tuner of Transformer_RMSE_Close_Price.ipynb
